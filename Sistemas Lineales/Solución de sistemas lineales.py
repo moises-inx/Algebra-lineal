@@ -1,3 +1,5 @@
+# El código analiza ecuaciones lineales, entregando su matriz apliada y su matriz escalonada correspondiente al sistema.
+
 import sympy as sp
 
 # Definimos las variables
