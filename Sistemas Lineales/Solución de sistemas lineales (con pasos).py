@@ -1,3 +1,4 @@
+# El código analiza los sistemas lineales, entregando sus respectivas matrices ampliadas y escalonadas, además, muestra los pasos para llegar a la matriz escalonada.
 import sympy as sp
 
 # Definimos las variables
